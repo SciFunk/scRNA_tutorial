@@ -1,4 +1,4 @@
-# scRNA processing
+# scRNA processing tutorial
 This repository contains the jupyter notebooks and scripts I created to teach myself scRNA processing from raw FASTQ to a small meta data analysis.
 
 1. I used STARsolo to align raw FASTQ files to the genome. That tutorial is in scRNA_fastq_processing.ipynb
